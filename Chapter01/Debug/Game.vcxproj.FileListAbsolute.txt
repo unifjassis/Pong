@@ -1,0 +1,4 @@
+C:\Users\belmo\OneDrive\Área de Trabalho\Códigos_game\code-master\Chapter01\Debug\Game.exe
+C:\Users\belmo\OneDrive\Área de Trabalho\Códigos_game\code-master\Chapter01\Debug\Game.pdb
+C:\Users\FAGNERDEASSISMOURAPI\Downloads\codigo_pong_cap1-20220816T214018Z-001\codigo_pong_cap1\Chapter01\Debug\Game.exe
+C:\Users\unifjassis\Downloads\codigo_pong_cap1\Chapter01\Debug\Game.exe
